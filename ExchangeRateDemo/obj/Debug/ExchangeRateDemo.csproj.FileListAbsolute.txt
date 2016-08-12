@@ -1,0 +1,7 @@
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\ExchangeRateDemo\bin\ExchangeRateDemo.dll
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\ExchangeRateDemo\bin\ExchangeRateDemo.pdb
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\ExchangeRateDemo\obj\Debug\ExchangeRateDemo.dll
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\ExchangeRateDemo\obj\Debug\ExchangeRateDemo.pdb
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\ExchangeRateDemo\bin\YaHooRate.dll
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\ExchangeRateDemo\bin\YaHooRate.pdb
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\ExchangeRateDemo\obj\Debug\ExchangeRateDemo.csprojResolveAssemblyReference.cache

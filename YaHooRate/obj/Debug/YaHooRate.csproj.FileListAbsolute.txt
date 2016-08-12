@@ -1,0 +1,4 @@
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\YaHooRate\bin\Debug\YaHooRate.dll
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\YaHooRate\bin\Debug\YaHooRate.pdb
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\YaHooRate\obj\Debug\YaHooRate.dll
+E:\C#Project\ExchangeRateTools\ExChangeRateTools\YaHooRate\obj\Debug\YaHooRate.pdb
