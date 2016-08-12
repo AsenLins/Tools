@@ -16,16 +16,16 @@
   * deciaml
  */ 
  string _SMoeny = "10".ConverterRate("CNY","HKD"); 
- decimal _DMoeny = 10.ConverterRate("CNY","USD");
+ decimal _DMoeny = 10.ConverterRate("HKD","CNY");
  int _IMoeny = 10.ConverterRate("USD","HKD");
 ```
 **查询指定币种之间的汇率**
 ```
   /*查询汇率（返回XML字符串）*/
-  string Xml = Rate.QueryRateToXml(OriginRate, TargetRate);
+  string Xml = Rate.QueryRateToXml("CNY","HKD");
   
   /*查询汇率（返回Obj对象）*/
-  RateObj _RateObj=Rate.QueryRateToObj(OriginRate, TargetRate);
+  RateObj _RateObj=Rate.QueryRateToObj("CNY","HKD");
 ```
 
 
