@@ -1,2 +1,2 @@
 # YaHooExchangeRateTools
-雅虎汇率Api工具。
+各种常用工具接口Api工具。
